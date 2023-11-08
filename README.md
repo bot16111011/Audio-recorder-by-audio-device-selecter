@@ -8,6 +8,7 @@ Before running the script, make sure you have Python installed on your system. Y
 
 ```bash
 pip install pyaudio
+pip install wave
 ```
 
 ## Usage
@@ -15,7 +16,7 @@ pip install pyaudio
 1. Run the script using Python:
 
    ```bash
-   python audio_recorder.py
+   python chooserecorder.py
    ```
 
 2. The script will display a list of available audio devices. Choose the device you want to use by entering the corresponding number.
